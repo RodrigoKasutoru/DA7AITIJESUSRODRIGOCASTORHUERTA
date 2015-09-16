@@ -1,0 +1,14 @@
+C:\Users\utt2\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\utt2\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\utt2\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+K:\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+K:\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\calculadoraAritmetica\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2012\Projects\practicasProgramacionAplicaciones\calculadoraAritmetica\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
