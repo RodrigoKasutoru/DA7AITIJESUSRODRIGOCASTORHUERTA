@@ -1,0 +1,6 @@
+c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\bin\Debug\Carreglos.exe.config
+c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\bin\Debug\Carreglos.exe
+c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\bin\Debug\Carreglos.pdb
+c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\obj\Debug\Carreglos.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\obj\Debug\Carreglos.exe
+c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\obj\Debug\Carreglos.pdb

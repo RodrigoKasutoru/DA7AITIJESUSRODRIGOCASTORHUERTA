@@ -1,0 +1,7 @@
+C:\Users\utt2\AppData\Local\Temporary Projects\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\utt2\AppData\Local\Temporary Projects\Arreglos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\utt2\AppData\Local\Temporary Projects\Arreglos\obj\x86\Debug\Arreglos.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\Arreglos\obj\x86\Debug\Arreglos.pdb
+K:\Arreglos\Arreglos\obj\x86\Debug\Arreglos.exe
+K:\Arreglos\Arreglos\obj\x86\Debug\Arreglos.pdb
