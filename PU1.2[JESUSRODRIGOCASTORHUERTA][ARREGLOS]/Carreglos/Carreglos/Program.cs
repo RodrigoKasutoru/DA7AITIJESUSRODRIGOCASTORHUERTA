@@ -10,30 +10,93 @@ namespace Carreglos
     {
         static void Main(string[] args)
         {
-            string rep;
-           do
-           {
-            Console.WriteLine("Inserta el numero de renglones");
+            string repeticion;
+            do
+            {
+            
+            Menu.VentanaPrinsipal();
+            
 
-            Console.Write("->"); int reng = Convert.ToInt32(Console.ReadLine());
+            Console.Write(">"); string seleccion = Console.ReadLine();
+            
+            switch(seleccion)
+            {
+                case "1":
+                   
+                    {
+                        string rep;
 
-            carreglos carreglos = new carreglos(reng);
+                        do
+                        {
+                            Console.WriteLine("Inserta el numero de casillas para el arreglo");
 
-            carreglos.generarDatos();
+                            Console.Write("->"); int reng = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("--------------------------------------------------------------------------------");
-            carreglos.mostrarInfoMatriz();
-            Console.WriteLine("--------------------------------------------------------------------------------");
+                            carreglos carreglos = new carreglos(reng);
 
-            Console.WriteLine("El promedio de la matriz es: {0}", carreglos.promedio());
+                            carreglos.generarDatosArregloSimple();
 
-            Console.WriteLine();
-            Console.WriteLine("Quieres hacer otro arreglo s = si y presione alguna otra tecla para no");
+                            Console.WriteLine("--------------------------------------------------------------------------------");
+                            carreglos.mostrarInfoMatrizSimple();
+                            Console.WriteLine("--------------------------------------------------------------------------------");
 
-            Console.Write("->"); rep = Console.ReadLine();
+                            Console.WriteLine("El promedio de la matriz es: {0}", carreglos.promedioArregloSimple());
 
-             
-           }while(rep=="s");
+                            Console.WriteLine();
+
+                            Console.WriteLine("Quieres hacer otro arreglo s = si y presione alguna otra tecla para no");
+
+                            Console.Write("->"); rep = Console.ReadLine();
+
+
+                        } while (rep == "s");
+
+                       
+                    }break;
+
+                case "2":
+                    {
+                        string rep;
+                        do
+                        {
+                            Console.WriteLine("Inserta el numero de casillas para los arreglos");
+
+                            Console.Write("->"); int reng = Convert.ToInt32(Console.ReadLine());
+
+                            carreglos carreglos = new carreglos(reng);
+
+                            carreglos.generarDatosMultiplicacionArreglos();
+
+                            carreglos.multiplicarArreglos();
+
+                            carreglos.mostrarMultiplicacionArreglos();
+                            
+                            Console.WriteLine();
+
+                            Console.WriteLine("Quieres hacer otro arreglo s = si y presione alguna otra tecla para no");
+
+                            Console.Write("->"); rep = Console.ReadLine();
+
+
+                            
+                        } while (rep == "s");
+
+                        
+                    }break;
+
+                default:
+                    Console.WriteLine("No escogiste ninguna opcion");
+                    break;
+
+                  
+
+
+            }
+                Console.WriteLine("Quieres ejecutar otro programa s = si o presione cualquier otra tecla para salir");
+                Console.Write(">"); repeticion = Console.ReadLine();
+
+
+            }while(repeticion == "s");
            
         }
     }

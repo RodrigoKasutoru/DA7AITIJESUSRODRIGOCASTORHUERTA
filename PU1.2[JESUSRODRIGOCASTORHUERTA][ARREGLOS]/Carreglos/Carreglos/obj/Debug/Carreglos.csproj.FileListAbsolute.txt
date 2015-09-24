@@ -4,3 +4,9 @@ c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\bin\D
 c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\obj\Debug\Carreglos.csprojResolveAssemblyReference.cache
 c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\obj\Debug\Carreglos.exe
 c:\users\rodrigo\documents\visual studio 2012\Projects\Carreglos\Carreglos\obj\Debug\Carreglos.pdb
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.2[JESUSRODRIGOCASTORHUERTA][ARREGLOS]\Carreglos\Carreglos\bin\Debug\Carreglos.exe.config
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.2[JESUSRODRIGOCASTORHUERTA][ARREGLOS]\Carreglos\Carreglos\obj\Debug\Carreglos.exe
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.2[JESUSRODRIGOCASTORHUERTA][ARREGLOS]\Carreglos\Carreglos\obj\Debug\Carreglos.pdb
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.2[JESUSRODRIGOCASTORHUERTA][ARREGLOS]\Carreglos\Carreglos\bin\Debug\Carreglos.exe
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.2[JESUSRODRIGOCASTORHUERTA][ARREGLOS]\Carreglos\Carreglos\bin\Debug\Carreglos.pdb
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.2[JESUSRODRIGOCASTORHUERTA][ARREGLOS]\Carreglos\Carreglos\obj\Debug\Carreglos.csprojResolveAssemblyReference.cache
