@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenU1[JESUSRODRIGOCASTORHUERTA]", "ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA].csproj", "{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometria", "Geometria\Geometria.csproj", "{272D7130-3BF4-459F-A470-61C8CDE0D276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{95817EF4-EB8E-4F22-92B4-8BB9D21480BD}.Release|x86.ActiveCfg = Release|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{272D7130-3BF4-459F-A470-61C8CDE0D276}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

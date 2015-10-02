@@ -1,0 +1,5 @@
+C:\Users\utt2\AppData\Local\Temporary Projects\hererncia\bin\Debug\hererncia.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\hererncia\bin\Debug\hererncia.pdb
+C:\Users\utt2\AppData\Local\Temporary Projects\hererncia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\utt2\AppData\Local\Temporary Projects\hererncia\obj\x86\Debug\hererncia.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\hererncia\obj\x86\Debug\hererncia.pdb

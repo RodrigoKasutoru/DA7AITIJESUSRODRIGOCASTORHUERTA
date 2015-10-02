@@ -1,0 +1,17 @@
+C:\Users\utt2\AppData\Local\Temporary Projects\herenciaLinea\bin\Debug\herenciaLinea.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\herenciaLinea\bin\Debug\herenciaLinea.pdb
+C:\Users\utt2\AppData\Local\Temporary Projects\herenciaLinea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\utt2\AppData\Local\Temporary Projects\herenciaLinea\obj\x86\Debug\herenciaLinea.exe
+C:\Users\utt2\AppData\Local\Temporary Projects\herenciaLinea\obj\x86\Debug\herenciaLinea.pdb
+K:\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.exe
+K:\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.pdb
+F:\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.exe
+F:\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.pdb
+F:\herenciaLinea\herenciaLinea\bin\Debug\herenciaLinea.exe
+F:\herenciaLinea\herenciaLinea\bin\Debug\herenciaLinea.pdb
+F:\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.3[JESUSRODRIGOCASTORHUERTA][HERENCIA]\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.exe
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.3[JESUSRODRIGOCASTORHUERTA][HERENCIA]\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.pdb
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.3[JESUSRODRIGOCASTORHUERTA][HERENCIA]\herenciaLinea\herenciaLinea\bin\Debug\herenciaLinea.exe
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.3[JESUSRODRIGOCASTORHUERTA][HERENCIA]\herenciaLinea\herenciaLinea\bin\Debug\herenciaLinea.pdb
+C:\Users\Rodrigo\Documents\utt7au\DA7AITIJESUSRODRIGOCASTORHUERTA\PU1.3[JESUSRODRIGOCASTORHUERTA][HERENCIA]\herenciaLinea\herenciaLinea\obj\x86\Debug\herenciaLinea.csprojResolveAssemblyReference.cache

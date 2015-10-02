@@ -1,0 +1,8 @@
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\bin\Debug\ExamenU1[JESUSRODRIGOCASTORHUERTA].exe.config
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\bin\Debug\ExamenU1[JESUSRODRIGOCASTORHUERTA].exe
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\bin\Debug\ExamenU1[JESUSRODRIGOCASTORHUERTA].pdb
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\obj\Debug\ExamenU1[JESUSRODRIGOCASTORHUERTA].csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\obj\Debug\ExamenU1[JESUSRODRIGOCASTORHUERTA].exe
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\obj\Debug\ExamenU1[JESUSRODRIGOCASTORHUERTA].pdb
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\bin\Debug\Geometria.dll
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\ExamenU1[JESUSRODRIGOCASTORHUERTA]\bin\Debug\Geometria.pdb

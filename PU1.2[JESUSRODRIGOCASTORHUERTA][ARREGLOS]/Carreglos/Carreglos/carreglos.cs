@@ -41,6 +41,9 @@ namespace Carreglos
             }
             Console.WriteLine();
         }
+        /// <summary>
+        /// 
+        /// </summary>
         public void generarDatosArregloSimple()
         {
             Random aleatorio = new Random();

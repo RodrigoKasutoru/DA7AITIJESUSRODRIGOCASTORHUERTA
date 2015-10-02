@@ -1,0 +1,5 @@
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\Geometria\bin\Debug\Geometria.dll
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\Geometria\bin\Debug\Geometria.pdb
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\Geometria\obj\Debug\Geometria.dll
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\Geometria\obj\Debug\Geometria.pdb
+c:\users\rodrigo\documents\visual studio 2012\Projects\ExamenU1[JESUSRODRIGOCASTORHUERTA]\Geometria\obj\Debug\Geometria.csprojResolveAssemblyReference.cache
